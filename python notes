@@ -1,2 +1,0 @@
-
-json.loads() -  converts a JSON-formatted string into a Python dictionary or list
